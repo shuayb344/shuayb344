@@ -105,7 +105,7 @@ I build **scalable, reliable, and user-friendly web applications** with modern t
 
 <div align="center">
 
-<a href="https://t.me/shu_codes"><img src="https://img.shields.io/badge/Message_me_on_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://t.me/Shuayb34"><img src="https://img.shields.io/badge/Message_me_on_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 
 <br/><br/>
 
