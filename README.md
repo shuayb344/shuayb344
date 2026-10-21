@@ -23,7 +23,7 @@ I build **scalable, reliable, and user-friendly web applications** with modern t
 - 🔭 Currently building: **Truthwall** and **OSS Funding Matcher**
 - 🌱 Always learning: system design, performance, and better developer experience
 - 🤝 Open to collaborations, open-source contributions, and freelance work
-- 💬 Reach me on [Telegram](https://t.me/shu_codes)
+- 💬 Reach me on [Telegram](https://t.me/Shuayb34)
 
 <br/>
 
