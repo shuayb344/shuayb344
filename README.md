@@ -1,77 +1,62 @@
-👋 Hi, I'm Shuayb
+Shuayb | Full-Stack Developer 👋
 
-Full-Stack Developer | Building Useful Products
+Building useful products with modern web technologies.
 
-I build scalable, reliable, and user-friendly web applications with modern web technologies. I enjoy turning ideas into real products, solving problems, and continuously improving my engineering skills.
+I’m a Full-Stack Developer who enjoys turning ideas into practical applications, solving real-world problems, and building reliable software from frontend to backend.
 
-- 💻 Focused on full-stack development
-- 🚀 Building practical projects that solve real problems
-- 🐳 Using Docker for application containerization
-- 🌱 Always learning, building, and improving
-- 📫 Connect with me on "Telegram" (https://t.me/shu_codes)
+"GitHub" (https://github.com/shuayb344) · "Telegram" (https://t.me/shu_codes)
 
 ---
 
-🛠️ Tech Stack
+⚡ Tech Stack
 
-Frontend
+"My Tech Stack" (https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,postgres,prisma,mongodb,docker,git,github&theme=dark)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts" alt="React, Next.js, TypeScript" />
-  </p>Backend & Databases
+---
 
-  <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,mongodb" alt="Node.js, Express, PostgreSQL, Prisma, MongoDB" />
-    </p>Tools & Infrastructure
+🚀 Featured Projects
 
-    <p>
-      <img src="https://skillicons.dev/icons?i=docker,git,github" alt="Docker, Git, GitHub" />
-      </p>---
+<table>
+<tr>
+<td width="50%" valign="top">💬 Truthwall
 
-      🚀 Featured Projects
+An anonymous social platform where people can share their thoughts and truths.
 
-      💬 Truthwall
+- Anonymous sharing
+- User interaction
+- Full-stack web application
 
-      An anonymous social platform where people can share their thoughts and truths.
+"Live Demo →" (https://truthwall-seven.vercel.app)
 
-      - Designed around anonymous sharing and user interaction
-      - Built as a full-stack web application
+</td>
+<td width="50%" valign="top">🔎 OSS Funding Matcher
 
-      "🌐 Live Demo" (https://truthwall-seven.vercel.app)
+A platform designed to help open-source projects discover relevant funding opportunities.
 
-      🔎 OSS Funding Matcher
+- Open-source funding discovery
+- Project-focused experience
+- Full-stack web application
 
-      A platform designed to help open-source projects discover relevant funding opportunities.
+"Live Demo →" (https://oss-funding-matcher.vercel.app)
 
-      - Focused on connecting open-source projects with potential funding
-      - Built to make funding discovery more accessible
+</td>
+</tr>
+</table>---
 
-      "🌐 Live Demo" (https://oss-funding-matcher.vercel.app)
+📊 GitHub Overview
 
-      ---
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shuayb344&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuayb344&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
+</p><p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shuayb344&theme=github-compact&hide_border=true&area=true" alt="Contribution activity" />
+</p>---
 
-      📊 GitHub Statistics
+🤝 Let's Connect
 
-      <p align="center">
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=shuayb344&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-          <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuayb344&layout=compact&theme=github_dark&hide_border=true" alt="Most used programming languages" />
-          </p><p align="center">
-            <img src="https://streak-stats.demolab.com?user=shuayb344&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
-            </p>---
+- GitHub: "@shuayb344" (https://github.com/shuayb344)
+- Telegram: "@shu_codes" (https://t.me/shu_codes)
 
-            📈 Contribution Activity
-
-            <p align="center">
-              <img src="https://github-readme-activity-graph.vercel.app/graph?username=shuayb344&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
-              </p>---
-
-              🤝 Let's Connect
-
-              I'm always interested in connecting with developers, exchanging ideas, and building useful things.
-
-              - GitHub: "@shuayb344" (https://github.com/shuayb344)
-              - Telegram: "@shu_codes" (https://t.me/shu_codes)
-
-              ---
-
-              
+<p align="center">
+  <i>Build. Learn. Improve. Repeat.</i>
+</p>
